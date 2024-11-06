@@ -15,7 +15,7 @@
  * License URI: https://opensource.org/licenses/MIT
  * 
  * Email: hassanali7303@gmail.com
- * Domain Path: https://t.me/hassan7303
+ * Domain Path: https://hsnali.ir
  */
 
 
